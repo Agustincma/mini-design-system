@@ -1,8 +1,9 @@
 {
   "name": "@aguscma33/mini-design-system",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "files": ["dist"],
+  "types": "dist/index.d.ts",
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0"

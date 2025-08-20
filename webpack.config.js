@@ -6,7 +6,7 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     filename: "index.js",
     library: "mini-design-system",
-    libraryTarget: "umd",
+    libraryTarget: "commonjs2",
     clean: true
   },
   module: {
