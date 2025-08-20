@@ -1,6 +1,6 @@
 {
   "name": "@aguscma33/mini-design-system",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "files": ["dist"],
   "types": "dist/index.d.ts",
